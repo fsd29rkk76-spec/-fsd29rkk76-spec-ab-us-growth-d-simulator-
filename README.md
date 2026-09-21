@@ -1,5 +1,4 @@
-ab-us-growth-d-simulator/
-└── index.html
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
